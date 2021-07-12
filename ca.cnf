@@ -56,9 +56,9 @@ emailAddress                    = Email Address
 
 # Optionally, specify some defaults.
 countryName_default             = CN
-stateOrProvinceName_default     = Guangdong
-localityName_default            = Guangzhou
-0.organizationName_default      = Fishdrowned
+stateOrProvinceName_default     = beijing
+localityName_default            = beijing
+0.organizationName_default      = ocean
 organizationalUnitName_default  =
 emailAddress_default            =
 
