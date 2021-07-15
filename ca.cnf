@@ -56,11 +56,11 @@ emailAddress                    = Email Address
 
 # Optionally, specify some defaults.
 countryName_default             = CN
-stateOrProvinceName_default     = beijing
-localityName_default            = beijing
-0.organizationName_default      = ocean
+stateOrProvinceName_default     = BEIJING
+localityName_default            = BEIJING
+0.organizationName_default      = OCEAN
 organizationalUnitName_default  =
-emailAddress_default            =
+emailAddress_default            = wengzhenxing@live.com
 
 [ v3_ca ]
 # Extensions for a typical CA (`man x509v3_config`).

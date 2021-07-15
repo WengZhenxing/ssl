@@ -5,5 +5,5 @@
 ```
 
 ``` bash
-./gen.cert.sh silver.dev
+./gen.cert.sh ocean.dev
 ```
